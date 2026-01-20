@@ -10,8 +10,9 @@ This project simulates basic banking operations and is deployed live using **Ver
 ## 🚀 Features
 
 - 👤 User-friendly banking interface  
-- 💰 Deposit and withdraw functionality  
-- 📊 Balance display and updates  
+- 💰 Deposit functionality  
+- 💸 Withdraw functionality  
+- 📊 Real-time balance updates  
 - 🎨 Clean and responsive UI  
 - 🌐 Deployed and accessible online  
 
@@ -27,11 +28,13 @@ This project simulates basic banking operations and is deployed live using **Ver
 
 ## 📂 Project Structure
 
-
----
-
-## ▶️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/harishd3504-oss/bank-app.git
+```text
+bank-app/
+│
+├── index.html        # Main HTML file
+├── style.css         # CSS styling
+├── script.js         # JavaScript logic
+├── bank-bg.jpg       # Background image
+├── settings.json     # Deployment / project settings
+└── README.md         # Project documentation
+git clone https://github.com/harishd3504-oss/bank-app.git
